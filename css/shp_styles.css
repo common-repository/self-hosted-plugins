@@ -1,0 +1,110 @@
+#shp-plugin-details h1,
+#shp-plugin-details h2,
+#shp-plugin-details h3,
+#shp-plugin-details h4,
+#shp-plugin-details h5,
+#shp-plugin-details h6 {
+	clear:none;
+}
+#shp-plugin-header{
+	border-bottom:1px solid #DFDFDF;
+	margin-bottom:5px;
+}
+#shp-plugin-header ul{
+	padding:0px;
+	margin:0px;
+	list-style:none outside none;
+}
+#shp-plugin-header ul li{
+	display:inline;
+	line-height:200%;
+	list-style:none outside none;
+	margin:0;
+	padding:0;
+	text-align:center;
+	white-space:nowrap;
+}	
+#shp-plugin-header #sidemenu a{
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-color:#DFDFDF;
+	display:inline-block;
+	line-height:28px;
+	padding:0 7px;
+	text-decoration:none;
+	margin-bottom:-1px;
+}
+#shp-plugin-header #sidemenu a.current{
+	-moz-border-radius:4px 4px 0 0;
+	border-radius:4px 4px 0 0;
+	border-style:solid;
+	border-width:1px;
+	font-weight:normal;
+	padding-left:6px;
+	padding-right:6px;
+	border-bottom-color:white;
+	background:white;
+}
+#shp-plugin-details .fyi {
+	margin:0 10px 50px;
+	width:210px;
+}
+#shp-plugin-details .fyi h2 {
+	font-size:0.9em;
+	margin-bottom:0;
+	margin-right:0;
+}
+#shp-plugin-details .fyi h2.mainheader {
+	background-color:#CEE1EF;
+	-moz-border-radius-topleft:3px;
+	padding:5px;
+}
+#shp-plugin-details .fyi ul {
+	-moz-border-radius-bottomleft:3px;
+	list-style:none outside none;
+	margin:0;
+	padding:10px 5px 10px 7px;
+	background-color:#EAF3FA;
+}
+#shp-plugin-details .fyi li {
+	margin-right:0;
+}
+#shp-plugin-details .fyi p.action-button{
+	-moz-border-radius:3px;
+	border-radius:3px;
+	margin-bottom:0;
+	margin-top:10px;
+	padding-bottom:0;
+	width:100%;
+	background-color:#D54E21;
+	color:#FFFFFF;
+	padding:3px 0px;
+	text-align:center;
+	margin-bottom:3px;
+}
+
+#shp-plugin-details .fyi p.action-button a{
+	text-decoration:none;
+	color:#ffffff;
+	font-weight:bold;
+}
+
+#shp-plugin-details #section-screenshots ol{
+	clear:left;
+	list-style:none outside none;
+	margin:0 !important;
+	padding:0;
+}
+#shp-plugin-details #section-screenshots ol img{
+	border:1px solid #DADADA;
+	max-width:530px;
+}
+#shp-plugin-details #section-screenshots ol li{
+	padding-bottom:35px;
+	float:left;
+}
+#shp-plugin-details #section-screenshots ol p{
+	font-style:italic;
+	margin:0;
+	padding:0;
+}
